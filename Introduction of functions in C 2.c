@@ -1,8 +1,5 @@
 //QUESTION:--
-//How to use Functions in C language.
-
-//ANSWER:--
-Create an function and print it's value.
+//How to use Functions in C language?
 
 //ANSWER:--
 #include <stdio.h>
