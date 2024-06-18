@@ -1,5 +1,5 @@
 //QUESTION:--
-Basic operation with 2 values using C language. 
+//Basic operation with 2 values using C language. 
 
 //ANSWER:--
 #include <stdio.h>
