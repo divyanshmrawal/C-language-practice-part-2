@@ -1,7 +1,7 @@
 //QUESTION:--
 //How to use Functions in C language?
 
-//ANSWER:--
+//ANSWER:-
 #include <stdio.h>
 
 //Creating function :-
